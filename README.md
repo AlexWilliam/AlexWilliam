@@ -39,5 +39,18 @@
              title="Alex William's Trophies"
         />
     </p>
-    
+    <p align="center">
+      <a href="https://github.com/AlexWilliam/AlexWilliam/issues">
+        <img src="https://img.shields.io/github/issues/AlexWilliam/AlexWilliam" title="issues" alt="issues" /> 
+      </a>
+      <a href="https://github.com/AlexWilliam/AlexWilliam/network/members">
+        <img src="https://img.shields.io/github/forks/AlexWilliam/AlexWilliam" title="forks" alt="forks" /> 
+      </a>
+      <a href="https://github.com/AlexWilliam/AlexWilliam/stargazers">
+        <img src="https://img.shields.io/github/stars/AlexWilliam/AlexWilliam" title="stars" alt="stars" /> 
+      </a>
+       <a href="https://github.com/AlexWilliam/AlexWilliam/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/AlexWilliam/AlexWilliam" title="license" alt="license" /> 
+      </a>
+    </p>
 </details>
