@@ -9,7 +9,7 @@
 :speech_balloon: Ask me about anything <a href="https://github.com/AlexWilliam/AlexWilliam/issues">here.</a>
 <br />
 :link: <a href="https://linktr.ee/Zurrilho">My Social Networks.</a>
-
+<br />
 <a href="https://github.com/AlexWilliam">
     <img src="https://img.shields.io/github/followers/AlexWilliam?label=follow&style=social" height="22" title="Follow me" align="right" alt="GitHub">
 </a>
@@ -27,7 +27,7 @@
 <a href="https://www.linkedin.com/in/alex-william-gon%C3%A7alves-44692b4a/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
 </a>
-<br />
+
 <details title="Alex William's Trophies">
     <br />
     <summary align="left"><strong><i>Alex William's Trophies</i></strong> 🏆</summary>
