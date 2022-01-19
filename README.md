@@ -1,8 +1,7 @@
-### Hi there 👋
 <a href="#">
     <img src="https://github.com/AlexWilliam/AlexWilliam/blob/develop/assets/working.gif" title="day++" width="245px" align="right" alt="Routine">
 </a>
-<br />
+
 :department_store: I'm currently working on <a href="https://www.oabrs.org.br/">OAB/RS</a> as PHP Programmer.
 <br />
 :heart: I'm passionate about ...!
@@ -28,7 +27,7 @@
 <a href="https://www.linkedin.com/in/alex-william-gon%C3%A7alves-44692b4a/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
 </a>
-
+<br />
 <details title="Alex William's Trophies">
     <br />
     <summary align="left"><strong><i>Alex William's Trophies</i></strong> 🏆</summary>
