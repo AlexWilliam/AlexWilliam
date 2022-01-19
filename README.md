@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="#">
-    <img src="https://github.com/AlexWilliam/AlexWilliam/blob/master/assets/working.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
+    <img src="https://github.com/AlexWilliam/AlexWilliam/blob/develop/assets/working.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
 </a>
 
 :department_store: I'm currently working on <a href="https://www.oabrs.org.br/">OAB/RS</a> as PHP Programmer.
