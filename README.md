@@ -2,7 +2,7 @@
     <img src="https://github.com/AlexWilliam/AlexWilliam/blob/develop/assets/working.gif" title="day++" width="245px" align="right" alt="Routine">
 </a>
 
-:department_store: I'm currently working on <a href="https://www.oabrs.org.br/">OAB/RS</a> as PHP Programmer.
+:department_store: I'm currently working on <a href="https://zallpy.com/">Zallpy Digital</a> as PHP Programmer.
 <br />
 :heart: I'm passionate about ...!
 <br />
