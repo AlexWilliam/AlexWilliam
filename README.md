@@ -1,54 +1,31 @@
-<a href="#">
-    <img src="https://github.com/AlexWilliam/AlexWilliam/blob/develop/assets/working.gif" title="day++" width="245px" align="right" alt="Routine">
-</a>
+<h1 align="center">Oi 👋, eu sou Alex William</h1>
+<h3 align="center">Sou desenvolvedor fullstack na <a href="https://zallpy.com/" target="blank">Zallpy Digital</a></h3>
 
-:department_store: I'm currently working on <a href="https://zallpy.com/">Zallpy Digital</a> as PHP Programmer.
-<br />
-:heart: I'm passionate about ...!
-<br />
-:speech_balloon: Ask me about anything <a href="https://github.com/AlexWilliam/AlexWilliam/issues">here.</a>
-<br />
-:link: <a href="https://linktr.ee/Zurrilho">My Social Networks.</a>
-<br /><br />
+<p>
+- 💬 Pergunte-me sobre **tudo, e verei se posso ajudar! ;D**
+    <br><br>
+- 📄 Sobre minhas experiências: **são muitas, pois sou dev a 10+ anos!**    
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=AlexWilliam&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" title="Profile views" align="right" alt="Profile views" />
+<p align="center">
+    <img src="https://github.com/AlexWilliam/AlexWilliam/blob/develop/assets/working.gif" title="day++" width="350px" align="center" alt="Routine">
+</p>
 
-<a href="https://api.whatsapp.com/send?phone=5551983322826">
-    <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="right" alt="Whatsapp">
-</a>
 
-<a href="mailto:alexgoncalves.ti@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail">
-</a>
 
-<a href="https://www.linkedin.com/in/alex-william-gon%C3%A7alves-44692b4a/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
-</a>
 
-![Alex William's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexWilliam&theme=codeSTACKr&show_icons=true)
 
-<!--details title="Alex William's Trophies">
-    <br />
-    <summary align="left"><strong><i>Alex William's Trophies</i></strong> 🏆</summary>
-    <p align="center">
-        <img 
-             src="https://github-profile-trophy.vercel.app/?username=AlexWilliam&column=4&theme=gruvbox&margin-w=4&&margin-h=4&no-frame=true" 
-             width="60%"
-             title="Alex William's Trophies"
-        />
-    </p>
-    <p align="center">
-      <a href="https://github.com/AlexWilliam/AlexWilliam/issues">
-        <img src="https://img.shields.io/github/issues/AlexWilliam/AlexWilliam" title="issues" alt="issues" /> 
-      </a>
-      <a href="https://github.com/AlexWilliam/AlexWilliam/network/members">
-        <img src="https://img.shields.io/github/forks/AlexWilliam/AlexWilliam" title="forks" alt="forks" /> 
-      </a>
-      <a href="https://github.com/AlexWilliam/AlexWilliam/stargazers">
-        <img src="https://img.shields.io/github/stars/AlexWilliam/AlexWilliam" title="stars" alt="stars" /> 
-      </a>
-       <a href="https://github.com/AlexWilliam/AlexWilliam/blob/master/LICENSE">
-        <img src="https://img.shields.io/github/license/AlexWilliam/AlexWilliam" title="license" alt="license" /> 
-      </a>
-    </p>
-</details-->
+<h3 align="center">Conecte-se comigo nas redes:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/alexwilliamgoncalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexwilliamgoncalves" height="30" width="40" /></a>
+<a href="https://instagram.com/zurr1lho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zurr1lho" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">Linguagens e ferramentas:</h3>
+<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?theme=codeSTACKr&username=alexwilliam&show_icons=true&locale=en" alt="alexwilliam" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?theme=codeSTACKr&username=alexwilliam&show_icons=true&locale=en&layout=compact" alt="alexwilliam" /></p>
+
+
