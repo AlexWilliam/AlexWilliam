@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=codeSTACKr&show_icons=true)
+![Alex William's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexWilliam&theme=codeSTACKr&show_icons=true)
 
 <!--details title="Alex William's Trophies">
     <br />
