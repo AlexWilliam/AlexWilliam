@@ -2,9 +2,9 @@
 <h3 align="center">Sou desenvolvedor fullstack na <a href="https://zallpy.com/" target="blank">Zallpy Digital</a></h3>
 
 <p>
-- 💬 Pergunte-me sobre **tudo, e verei se posso ajudar! ;D**
+- 💬 Pergunte-me sobre <strong>tudo, e verei se posso ajudar! ;D</strong>
     <br><br>
-- 📄 Sobre minhas experiências: **são muitas, pois sou dev a 10+ anos!**    
+- 📄 Sobre minhas experiências: <strong>são muitas, pois sou dev a 10+ anos!</strong>    
 </p>
 
 <p align="center">
