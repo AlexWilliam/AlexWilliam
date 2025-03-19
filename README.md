@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Alex William</h1>
-<h3 align="center">Sou desenvolvedor fullstack na <a href="https://zallpy.com/" target="blank">Zallpy Digital</a></h3>
+<h3 align="center">Sou desenvolvedor fullstack <!-- na <a href="https://zallpy.com/" target="blank">Zallpy Digital</a></h3-->
 
 <p>
 - 💬 Pergunte-me sobre <strong>tudo, e verei se posso ajudar! ;D</strong>
