@@ -1,9 +1,3 @@
-<style>
-    a {
-        text-decoration: none!important;
-    }
-</style>
-
 <h1 align="center">Oi 👋, eu sou Alex William</h1>
 <h3 align="center">Sou desenvolvedor fullstack, atualmente trabalho na empresa Veloce.tech <!-- na <a href="https://zallpy.com/" target="blank">Zallpy Digital</a></h3-->
 
@@ -23,7 +17,7 @@
 
 <h3 align="center">Conecte-se comigo nas redes:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/alexwilliamgoncalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexwilliamgoncalves" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexwilliamgoncalves" target="blank" style="text-decoration: none;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexwilliamgoncalves" height="30" width="40" /></a>
 <a href="https://instagram.com/zurr1lho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zurr1lho" height="30" width="40" /></a>
 </p>
 
