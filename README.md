@@ -27,7 +27,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats-fast.vercel.app/api?theme=codeSTACKr&username=alexwilliam&show_icons=true&locale=en" alt="alexwilliam" /></p>
 
-<p align="center">&nbsp;<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexWilliam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></p>
+<p align="center">&nbsp;<img loading="lazy" height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=AlexWilliam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></p>
 
 
 
